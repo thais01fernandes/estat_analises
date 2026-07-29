@@ -176,3 +176,13 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python
 .Rproj.user
 .positai
+
+# Ambientes virtuais
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# Arquivos do macOS
+.DS_Store
+**/.DS_Store
